@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Tihomir <br> and I'm a complete beginner in programming!</h3>
+<h3 align="left">Hi 👋! My name is Tihomir and I'm a complete beginner in programming!</h3>
 
 ###
 
